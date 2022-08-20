@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "create-react-app": "^5.0.1",
+    "jquery": "^3.6.0",
+    "react-bootstrap": "^2.5.0",
+    "sha3": "^2.1.4",
+    "web3": "^1.7.5",
+    "web3-eth-accounts": "^1.7.5"
+  }
+}
